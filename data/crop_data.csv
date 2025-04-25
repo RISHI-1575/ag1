@@ -1,0 +1,17 @@
+Crop,Location,Month,Year,Price,Demand
+Wheat,Bangalore,1,2025,1200,80
+Rice,Bangalore,1,2025,1500,90
+Maize,Bangalore,1,2025,900,70
+Sugarcane,Bangalore,1,2025,1800,60
+Wheat,Mysore,1,2025,1100,75
+Rice,Mysore,1,2025,1400,85
+Maize,Mysore,1,2025,850,65
+Sugarcane,Mysore,1,2025,1700,55
+Wheat,Hassan,1,2025,1150,78
+Rice,Hassan,1,2025,1450,88
+Maize,Hassan,1,2025,880,68
+Sugarcane,Hassan,1,2025,1750,58
+Wheat,Hubli,1,2025,1120,76
+Rice,Hubli,1,2025,1420,83
+Maize,Hubli,1,2025,860,63
+Sugarcane,Hubli,1,2025,1720,53
